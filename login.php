@@ -18,7 +18,7 @@
 		}else{
 			echo '<script>alert("Gagal, username atau password salah")</script>';
 		}
-	}
+	}  
 ?>
 <!DOCTYPE html>
 <html>
