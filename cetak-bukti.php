@@ -5,7 +5,7 @@
 		WHERE id_pendaftaran = '".$_GET['id']."' ");
 	$p = mysqli_fetch_object($peserta);
 ?>
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html>
 <head>
 	<meta charset="utf-8"> 
